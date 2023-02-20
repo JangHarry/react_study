@@ -25,7 +25,7 @@ export default function App() {
         <Button primary>primary</Button>
       </Container>
       <div>
-        <h1 className="text-3xl">안녕</h1>
+        <h1 className="text-3xl ">안녕222</h1>
       </div>
     </>
   );
